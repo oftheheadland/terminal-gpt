@@ -94,7 +94,7 @@ function runShellScript(script) {
       return
     }
 
-    console.log(`Script output: ${stdout}`)
+    stdout.length > 0 ? console.log(`Script output: ${stdout}`) : console.log('Script completed successfully.')
   })
 }
 
@@ -107,7 +107,8 @@ async function main() {
 
   // Prompt for instruction if not provided
   if (!instruction) {
-    instruction = await promptUser('What task would you like to perform? ')
+    instruction = await promptUser('What tedious terminal task are we letting AI handle today? ')
+    // "What terminal task would you like to perform?"
   }
 
   // Prompt for API key if not provided
