@@ -77,7 +77,7 @@ async function queryChatGPT(instruction, apiKey) {
     }
   } catch (error) {
     console.error('Error querying ChatGPT. Check your API key')
-    console.error(error)
+    // console.error(error)
   }
 }
 
