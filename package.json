@@ -1,10 +1,10 @@
 {
   "name": "terminally-gpt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package to generate and run shell scripts using ChatGPT",
   "main": "index.js",
   "bin": {
-    "my-package": "./index.js"
+    "terminally-gpt": "./index.js"
   },
   "scripts": {
     "start": "node index.js"
