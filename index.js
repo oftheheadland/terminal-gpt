@@ -94,7 +94,7 @@ function runShellScript(script) {
       return
     }
 
-    stdout.length > 0 ? console.log(`Script output: ${stdout}`) : console.log('Script completed successfully.')
+    stdout.length > 0 ? console.log(`Script output: ${stdout}`) : console.log('Script completed successfully!')
   })
 }
 

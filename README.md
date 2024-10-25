@@ -5,13 +5,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Terminally GPT</h3>
 
   <p align="center">
-Shell commands on autopilot—powered by AI, driven by you. 
+Shell commands on autopilot. Powered by AI - driven by you. 
   </p>
 </div>
 
