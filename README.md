@@ -1,11 +1,8 @@
 <a id="readme-top"></a>
 
-[![MIT License][license-shield]][license-url]
-
-<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
+  <a href="https://github.com/oftheheadland/terminal-gpt">
+    <img src="https://github.com/oftheheadland/terminal-gpt/raw/master/images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Terminally GPT</h3>
