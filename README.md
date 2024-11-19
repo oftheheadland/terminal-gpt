@@ -14,7 +14,7 @@ Terminal commands on autopilot. Powered by AI - driven by you.
 
 ## About The Project
 
-https://github.com/TheR1D/shell_gpt/assets/16740832/9197283c-db6a-4b46-bfea-3eb776dd9093
+https://github.com/user-attachments/assets/78ec488c-3bfd-4cb2-9449-e85fe8f08d22
 
 Sick of having to actually remember terminal commands? Tired of tapping the up arrow 47 times trying to find that command you ran late last Monday after way too much coffee? Fear not, because TerminallyGPT is here to rescue you from the endless grind of knowing stuff!
 
