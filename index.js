@@ -81,7 +81,7 @@ async function queryChatGPT(instruction, apiKey) {
   }
 }
 
-// Function to execute the shell script
+// Function to execute the script
 async function runScript(script) {
   exec(script, (error, stdout, stderr) => {
     if (error) {

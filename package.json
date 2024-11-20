@@ -1,7 +1,7 @@
 {
   "name": "terminally-gpt",
-  "version": "1.0.12",
-  "description": "A package to generate and run shell scripts using ChatGPT",
+  "version": "1.0.14",
+  "description": "A package to generate and run terminal commands using ChatGPT",
   "main": "index.js",
   "bin": {
     "terminally-gpt": "./index.js"
